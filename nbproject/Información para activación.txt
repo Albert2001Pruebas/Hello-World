@@ -1,0 +1,25 @@
+
+Si buscas mas material de este tipo o cualquier otro no dude en visitarnos.
+
+
+Puedes encontrar muchos tutoriales en nuestro foro: www.intercambiosos.org
+
+
+Nota: Existen estafadores que copian estos aportes en otras webs tomando nuestros nombres, 
+      nosotros no participamos en otras webs bajo ningún alias, tened cuidado.
+
+Se activa por telefono y com Red desconectada:
+
+Abres el Símbolo del sistema como administrador
+
+1º Copia y pega para lá esto: slmgr.vbs -ipk FMNCT-6JGDC-BGXQ7-VC8VJ-VH4X3
+
+y Enter enseguida.
+
+2º copia y pega esto: slui 4 y enter de nuevo
+ 
+Te lleva a ventana de elegir tu país y telefono sigue las instruciones y lo activas.
+
+IMPORTANTE: en el robÔt eligir siempre uno (1) utilizador
+ 
+!!! tienes que estar muy atento a las intruciones y munido de papel para escribir los números que te son ofrecidos.
